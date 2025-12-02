@@ -1,13 +1,13 @@
-# 📦 Inventory Management System
+#  Stock Maintenance System
 
 A modern and user-friendly **Stock Maintenance & Inventory Management System** built to help businesses manage products, categories, stock levels, and inventory reports efficiently.  
 The interface is clean, responsive, and includes dashboards, item cards, filters, reporting tools, and full CRUD functionality.
 
 ---
 
-## 🌟 Features Overview
+##  Features Overview
 
-### 🖥️ 1. Dashboard
+###  1. Dashboard
 The dashboard provides a real-time overview of inventory status:
 
 - **Total Items** count  
@@ -22,7 +22,7 @@ The dashboard provides a real-time overview of inventory status:
 
 ---
 
-## 📦 2. Inventory Management
+##  2. Inventory Management
 The Inventory page shows all available items in a clean *card-style layout*.
 
 ### Key Functionalities:
@@ -43,7 +43,7 @@ The Inventory page shows all available items in a clean *card-style layout*.
 
 ---
 
-## ➕ 3. Add New Item
+##  3. Add New Item
 A full-featured form to add new items into the inventory.
 
 ### Fields:
@@ -62,7 +62,7 @@ Every field is functional and validates user input.
 
 ---
 
-## 🗂️ 4. Categories Management
+##  4. Categories Management
 Manage all product categories used in the system.
 
 ### Includes:
@@ -74,7 +74,7 @@ Manage all product categories used in the system.
 
 ---
 
-## 📑 5. Reports
+##  5. Reports
 A dedicated reporting module to review inventory analytics.
 
 ### Possible actions:
@@ -86,7 +86,7 @@ A dedicated reporting module to review inventory analytics.
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 > *(Assuming standard web stack — adjust as needed)*
 
 - **Frontend:** React.js / HTML / CSS / Tailwind / Bootstrap  
@@ -96,5 +96,4 @@ A dedicated reporting module to review inventory analytics.
 
 ---
 
-## 📂 Project Structure (Example)
 
