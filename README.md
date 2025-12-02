@@ -87,13 +87,11 @@ A dedicated reporting module to review inventory analytics.
 ---
 
 ##  Tech Stack
-> *(Assuming standard web stack — adjust as needed)*
 
 - **Frontend:** React.js / HTML / CSS / Tailwind / Bootstrap  
 - **Backend:** Node.js / Express / or any backend configured  
 - **Database:** MongoDB / MySQL / Firebase  
 - **Icons:** Material Icons / HeroIcons / Font Awesome  
 
----
 
 
